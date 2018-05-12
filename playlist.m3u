@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:0,MBC
+http://134.19.181.172:8000/live/44332/44332/158.m3u8
+#EXTINF:0,MBC2
+http://134.19.181.172:8000/live/44332/44332/160.m3u8
 #EXTINF:0,MBC4
 http://134.19.181.172:8000/live/44332/44332/159.m3u8
+#EXTINF:0,MBC Max
+http://134.19.181.172:8000/live/44332/44332/165.m3u8
+#EXTINF:0,MBC Action
+http://134.19.181.172:8000/live/44332/44332/163.m3u8
+#EXTINF:0,MBC Drama
+http://134.19.181.172:8000/live/44332/44332/162.m3u8
 #EXTINF:0,Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b1864000.m3u8
 #EXTINF:0,TRT Kurdi
