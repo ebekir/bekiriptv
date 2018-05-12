@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:0,MBC
-http://134.19.181.172:8000/live/44332/44332/158.m3u8
-#EXTINF:0,MBC2
-http://134.19.181.172:8000/live/44332/44332/160.m3u8
-#EXTINF:0,MBC4
-http://134.19.181.172:8000/live/44332/44332/159.m3u8
-#EXTINF:0,MBC Max
-http://134.19.181.172:8000/live/44332/44332/165.m3u8
-#EXTINF:0,MBC Action
-http://134.19.181.172:8000/live/44332/44332/163.m3u8
-#EXTINF:0,MBC Drama
-http://134.19.181.172:8000/live/44332/44332/162.m3u8
 #EXTINF:0,Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b1864000.m3u8
+#EXTINF:0,Kurdistan24
+http://k24mediaservice.streaming.mediaservices.windows.net/63dfc45e-d5c2-4960-9ed9-155d2089c3a6/08930d14-2da7-4715-a890-8888fc8e349f.ism/QualityLevels(1150000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 #EXTINF:0,TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Sterk TV
@@ -27,8 +17,6 @@ http://163.172.36.69:25461/live/line/C4ueq72A2/9.m3u8
 http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8
 #EXTINF:0,Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w74864751_b1428000_sleng.m3u8
-#EXTINF:0,Kurdistan24
-http://k24mediaservice.streaming.mediaservices.windows.net/63dfc45e-d5c2-4960-9ed9-155d2089c3a6/08930d14-2da7-4715-a890-8888fc8e349f.ism/QualityLevels(1150000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 #EXTINF:0,Kurdsat
 http://163.172.36.69:25461/live/line/C4ueq72A2/33.m3u8
 #EXTINF:0,Kurdsat News
@@ -65,10 +53,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/index_750_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,France24 Eng
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0,I24 Eng
-https://stream-06.ix7.dailymotion.com/05/dm/3/x29atae/live-3.m3u8
-#EXTINF:0,I24 Ar
-https://stream-06.ix7.dailymotion.com/32/dm/3/x2uafpp/live-3.m3u8
 #EXTINF:0,AJ Eng
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,Press TV
@@ -99,6 +83,18 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8?sd=10&reb
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/index_350_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,DW Ar
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MBC
+http://134.19.181.172:8000/live/44332/44332/158.m3u8
+#EXTINF:0,MBC2
+http://134.19.181.172:8000/live/44332/44332/160.m3u8
+#EXTINF:0,MBC4
+http://134.19.181.172:8000/live/44332/44332/159.m3u8
+#EXTINF:0,MBC Max
+http://134.19.181.172:8000/live/44332/44332/165.m3u8
+#EXTINF:0,MBC Action
+http://134.19.181.172:8000/live/44332/44332/163.m3u8
+#EXTINF:0,MBC Drama
+http://134.19.181.172:8000/live/44332/44332/162.m3u8
 #EXTINF:0,MTV Lb
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8
 #EXTINF:0,LBC
