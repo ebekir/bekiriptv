@@ -96,13 +96,9 @@ http://134.19.181.172:8000/live/44332/44332/163.m3u8
 #EXTINF:0,MBC Drama
 http://134.19.181.172:8000/live/44332/44332/162.m3u8
 #EXTINF:0,MTV Lb
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8
-#EXTINF:0,LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8?v=
-#EXTINF:0,LDC
-http://144.217.253.140/LDC/tracks-v1a1/index.m3u8
-#EXTINF:0,LBC2
-https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
+#EXTINF:0,LBC Drama
+https://svs.itworkscdn.net/lbcdramalive/drama/playlist.m3u8
 #EXTINF:0,Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:0,Sama TV
